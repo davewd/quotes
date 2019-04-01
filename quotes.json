@@ -109,7 +109,8 @@
     },
     {
       "Author": "Marshal mclewin",
-      "Quote": "The medium is the message"
+      "Quote": "The medium is the message",
+      "URL": "https://en.wikipedia.org/wiki/Understanding_Media"
     },
     {
       "Author": "Reid Hoffman",
@@ -129,7 +130,7 @@
     },
     {
       "Quote": "If you really believe in what you're doing, work hard, take nothing personally and if something blocks one route, find another. Never give up",
-      "Author":"Laurie Notaro"
+      "Author": "Laurie Notaro"
     },
     {
       "Quote": "Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.",
@@ -139,7 +140,7 @@
       "Quote": "If you stay ready you don't have to get ready",
       "Author": "Will Smith"
     },
-     {
+    {
       "Quote": "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned",
       "Author": "Naval Ravikant",
       "URL": "https://twitter.com/naval/status/966512979066765313"
@@ -149,10 +150,15 @@
       "Author": "Pope John XXIII",
       "URL": "https://en.wikipedia.org/wiki/Pope_John_XXIII"
     },
-             {
+    {
       "Quote": "The successful warrior, is the average man, with laser-like focus",
       "Author": "Bruce Lee",
       "URL": ""
     },
+    {
+      "Quote": "Big data is Like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it",
+      "Author": "Dan Ariely",
+      "URL": "https://www.facebook.com/dan.ariely/posts/904383595868"
+    }
   ]
 }
