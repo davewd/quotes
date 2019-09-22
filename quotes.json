@@ -166,12 +166,12 @@
       "URL": ""
     },
     {
-      "Quote":"The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
+      "Quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
       "Author": "William Arthur Ward",
       "URL": "https://en.wikipedia.org/wiki/William_Arthur_Ward"
     },
     {
-      "Quote":"The grass is greener where you water it",
+      "Quote": "The grass is greener where you water it",
       "Author": "Neil Barringham",
       "URL": ""
     },
@@ -179,11 +179,11 @@
       "Quote": "It always seems impossible until its done.",
       "Author": "Nelson Mandela"
     },
-{
- 
-“Quote”: “Management is doing things right; leadership is doing the right things.”,
-“Author”: “Peter Drucker”
-}
+    {
+
+      "Quote": "Management is doing things right; leadership is doing the right things.",
+      "Author": "Peter Drucker"
+    }
 
   ]
 }
