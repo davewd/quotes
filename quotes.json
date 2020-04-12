@@ -1,5 +1,6 @@
 {
-  "quotes": [{
+  "quotes": [
+    {
       "Author": "Unknown",
       "Quote": "Manners Maketh Man"
     },
@@ -199,8 +200,10 @@
       "Quote": "You can either get better or get bitter",
       "Author": "Tejas",
       "twitter": "@TejasKumar_"
+    },
+    {
+      "Quote": "If you sum up the things I try to impart to our daughters, it has been: ‘be kind and be useful,'",
+      "Author": "Barrack Obama"
     }
-
-
   ]
 }
