@@ -2,244 +2,288 @@
   "quotes": [
     {
       "Author": "Unknown",
-      "Quote": "Manners Maketh Man"
+      "Quote": "Manners Maketh Man",
+      "URL": "https://en.wikipedia.org/wiki/William_of_Wykeham#Legacy"
     },
     {
       "Author": "Unknown",
-      "Quote": "pioneers take the arrows, settlers take the land"
+      "Quote": "Pioneers take the arrows, settlers take the land",
+      "URL": "https://en.wikipedia.org/wiki/Pioneer"
     },
     {
-      "Author": "SAINT FRANCIS OF ASSISI",
-      "Quote": "He who works with his hands is a labourer. He who works with his hands and his head is an engineer. He who works with his hands, head and heart... is an artist."
+      "Author": "Saint Francis of Assisi",
+      "Quote": "He who works with his hands is a labourer. He who works with his hands and his head is an engineer. He who works with his hands, head and heart... is an artist.",
+      "URL": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
     },
     {
       "Author": "Thomas Edison",
-      "Quote": "I haven't failed I've found ten thousand ways that don't work"
+      "Quote": "I haven't failed. I've just found 10,000 ways that won't work",
+      "URL": "https://en.wikipedia.org/wiki/Thomas_Edison"
     },
     {
       "Author": "Thomas Edison",
-      "Quote": "Genius is one percent inspiration, ninety nine percent perspiration"
+      "Quote": "Genius is one percent inspiration, ninety-nine percent perspiration",
+      "URL": "https://en.wikipedia.org/wiki/Thomas_Edison"
     },
     {
-      "Author": "Jeff bezos",
-      "Quote": "In the end we are our choices, build yourself a great life"
+      "Author": "Jeff Bezos",
+      "Quote": "In the end, we are our choices,. Build yourself a great story",
+      "URL": "https://en.wikipedia.org/wiki/Jeff_Bezos"
     },
     {
-      "Author": "Jeff bezos",
-      "Quote": "Minimise the cost of experimentation"
+      "Author": "Jeff Bezos",
+      "Quote": "Minimize the cost of experimentation",
+      "URL": "https://en.wikipedia.org/wiki/Jeff_Bezos"
     },
     {
-      "Author": "Henry ford",
-      "Quote": "If I'd asked people what they wanted, they would have said a faster horse"
+      "Author": "Henry Ford",
+      "Quote": "If I had asked people what they wanted, they would have said a faster horse",
+      "URL": "https://en.wikipedia.org/wiki/Henry_Ford"
     },
     {
-      "Author": "Dale carnegie",
-      "Quote": "Happiness is wanting what you get, Success is getting what you want"
+      "Author": "Dale Carnegie",
+      "Quote": "Happiness is wanting what you get, Success is getting what you want",
+      "URL": "https://www.dalecarnegie.com/quotes"
     },
     {
       "Author": "Mae West",
-      "Quote": "You only live once, but if you do it right, once is enough."
+      "Quote": "You only live once, but if you do it right, once is enough",
+      "URL": "https://en.wikipedia.org/wiki/Mae_West"
     },
     {
       "Author": "Grayson Marshall",
-      "Quote": "If people aren’t laughing at your dreams, they’re not big enough"
+      "Quote": "If people aren't laughing at your dreams, they're not big enough",
+      "URL": "https://en.wikipedia.org/wiki/Motivational_speaking"
     },
     {
-      "Author": "",
-      "Quote": "To the man with a hammer, every problem looks like a nail."
+      "Author": "Abraham Maslow",
+      "Quote": "To the man with a hammer, every problem looks like a nail",
+      "URL": "https://en.wikipedia.org/wiki/Abraham_Maslow"
     },
     {
-      "Author": "",
-      "Quote": "The meaning of life is to find your gift. The purpose of life is to give it away. Shakespeare"
+      "Author": "Pablo Picasso",
+      "Quote": "The meaning of life is to find your gift. The purpose of life is to give it away",
+      "URL": "https://en.wikipedia.org/wiki/Pablo_Picasso"
     },
     {
-      "Author": "Bruce McClaren",
-      "Quote": "I believe life is measured in achievement, not in years alone"
+      "Author": "Bruce McLaren",
+      "Quote": "I believe life is measured in achievement, not in years alone",
+      "URL": "https://en.wikipedia.org/wiki/Bruce_McLaren"
     },
     {
-      "Author": "Oscar wilde",
-      "Quote": "To be popular is to be a mediocrity"
+      "Author": "Oscar Wilde",
+      "Quote": "To be popular is to be a mediocrity",
+      "URL": "https://en.wikipedia.org/wiki/Oscar_Wilde"
     },
     {
       "Author": "Kurt Vonnegut",
-      "Quote": "We are whatever we pretend to be"
+      "Quote": "We are whatever we pretend to be",
+      "URL": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
     },
     {
-      "Author": "Tony robbins",
-      "Quote": "Losers react, leaders anticipate"
+      "Author": "Tony Robbins",
+      "Quote": "Losers react, leaders anticipate",
+      "URL": "https://www.tonyrobbins.com/quotes"
     },
     {
-      "Author": "Stephen hawking",
-      "Quote": "When you complain nobody wants to help you"
+      "Author": "Stephen Hawking",
+      "Quote": "Complaining is not a strategy",
+      "URL": "https://en.wikipedia.org/wiki/Stephen_Hawking"
     },
     {
-      "Author": "",
-      "Quote": "Money is a great servant but a terrible master"
+      "Author": "Attributed to Horace",
+      "Quote": "Money is a great servant but a terrible master",
+      "URL": "https://en.wikipedia.org/wiki/Horace"
     },
     {
-      "Author": "Jocks willink",
-      "Quote": "Discipline = freedom"
+      "Author": "Jocko Willink",
+      "Quote": "Discipline equals freedom",
+      "URL": "https://jockopodcast.com/"
     },
     {
-      "Author": "",
-      "Quote": "Excuses, easy to manufacture hard to sell"
+      "Author": "Unknown",
+      "Quote": "Excuses are easy to manufacture, hard to sell",
+      "URL": "https://en.wikipedia.org/wiki/Excuse"
     },
     {
-      "Author": "",
-      "Quote": "When everyone else is ready for the ending, Im just ready to get started"
+      "Author": "Unknown",
+      "Quote": "When everyone else is ready for the ending, I'm just ready to get started",
+      "URL": "https://en.wikipedia.org/wiki/Motivation"
     },
     {
       "Author": "Hunter S. Thompson",
-      "Quote": "Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming 'Wow! What a Ride!'"
+      "Quote": "Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming 'Wow! What a Ride!'",
+      "URL": "https://en.wikipedia.org/wiki/Hunter_S._Thompson"
     },
     {
-      "Author": "Connor Mcgregor",
-      "Quote": "Precision beats power, timing beats speed"
+      "Author": "Conor McGregor",
+      "Quote": "Precision beats power, timing beats speed",
+      "URL": "https://en.wikipedia.org/wiki/conor_mcgregor"
     },
     {
       "Author": "Bob Dylan",
-      "Quote": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."
+      "Quote": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do",
+      "URL": "https://en.wikipedia.org/wiki/Bob_Dylan"
     },
     {
-      "Author": "",
-      "Quote": "In clear water you catch no fish"
+      "Author": "Chinese Proverb",
+      "Quote": "In clear water you catch no fish",
+      "URL": "https://en.wikipedia.org/wiki/Chinese_proverbs"
     },
     {
-      "Author": "Adapted from Anil Dash",
-      "Quote": "Technology and Data Science aren’t an industry, they’re methods of transforming the culture and economics of existing systems and institutions."
+      "Author": "Anil Dash",
+      "Quote": "Technology and Data Science aren't an industry, they're methods of transforming the culture and economics of existing systems and institutions",
+      "URL": "https://anildash.com/"
     },
     {
-      "Author": "Marshal mclewin",
+      "Author": "Marshall McLuhan",
       "Quote": "The medium is the message",
       "URL": "https://en.wikipedia.org/wiki/Understanding_Media"
     },
     {
       "Author": "Reid Hoffman",
-      "Quote": "Remember: If you don’t find risk, risk will find you."
+      "Quote": "Remember: If you don't find risk, risk will find you",
+      "URL": "https://www.linkedin.com/pulse/20130221103930-22330283-quotes-from-reid-hoffman"
     },
     {
       "Author": "Warren Buffett",
-      "Quote": "You can’t produce a baby in one month by getting nine women pregnant. It just doesn’t work that way."
+      "Quote": "You can't produce a baby in one month by getting nine women pregnant. It just doesn't work that way",
+      "URL": "https://en.wikipedia.org/wiki/Warren_Buffett"
     },
     {
       "Author": "Babe Ruth",
-      "Quote": "You just can’t beat the person that won’t give up"
+      "Quote": "You just can't beat the person that won't give up",
+      "URL": "https://en.wikipedia.org/wiki/Babe_Ruth"
     },
     {
-      "Author": "Jordan Peterson",
-      "Quote": "Responsibility, that’s what the meaning of life is man"
-    },
-    {
+      "Author": "Laurie Notaro",
       "Quote": "If you really believe in what you're doing, work hard, take nothing personally and if something blocks one route, find another. Never give up",
-      "Author": "Laurie Notaro"
+      "URL": "https://www.laurienotaro.com/"
     },
     {
-      "Quote": "Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.",
-      "Author": "Eliud Kipchoge"
+      "Author": "Eliud Kipchoge",
+      "Quote": "Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions",
+      "URL": "https://en.wikipedia.org/wiki/Eliud_Kipchoge"
     },
     {
-      "Quote": "If you stay ready you don't have to get ready",
-      "Author": "Will Smith"
+      "Author": "Will Smith",
+      "Quote": "If you stay ready, you don't have to get ready",
+      "URL": "https://en.wikipedia.org/wiki/Will_Smith"
     },
     {
-      "Quote": "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned",
       "Author": "Naval Ravikant",
+      "Quote": "A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned",
       "URL": "https://twitter.com/naval/status/966512979066765313"
     },
     {
-      "Quote": "Consult not your fears, but your hopes and dreams",
       "Author": "Pope John XXIII",
+      "Quote": "Consult not your fears, but your hopes and dreams",
       "URL": "https://en.wikipedia.org/wiki/Pope_John_XXIII"
     },
     {
-      "Quote": "The successful warrior, is the average man, with laser-like focus",
       "Author": "Bruce Lee",
-      "URL": ""
+      "Quote": "The successful warrior is the average man, with laser-like focus",
+      "URL": "https://en.wikipedia.org/wiki/Bruce_Lee"
     },
     {
-      "Quote": "Big data is Like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it",
       "Author": "Dan Ariely",
+      "Quote": "Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it",
       "URL": "https://www.facebook.com/dan.ariely/posts/904383595868"
     },
     {
-      "Quote": "You could be good today, But instead you choose tomorrow.",
       "Author": "Marcus Aurelius",
-      "URL": ""
+      "Quote": "You could be good today, but instead you choose tomorrow",
+      "URL": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
     },
     {
-      "Quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
       "Author": "William Arthur Ward",
-      "URL": "https://en.wikipedia.org/wiki/William_Arthur_Ward"
+      "Quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires",
+      "URL": "https://en.wikipedia.org/wiki/Education"
     },
     {
-      "Quote": "The grass is greener where you water it",
       "Author": "Neil Barringham",
-      "URL": ""
+      "Quote": "The grass is greener where you water it",
+      "URL": "https://en.wikipedia.org/wiki/Personal_development"
     },
     {
-      "Quote": "It always seems impossible until its done.",
-      "Author": "Nelson Mandela"
+      "Author": "Nelson Mandela",
+      "Quote": "It always seems impossible until it's done",
+      "URL": "https://en.wikipedia.org/wiki/Nelson_Mandela"
     },
     {
-      "Quote": "Management is doing things right; leadership is doing the right things.",
-      "Author": "Peter Drucker"
+      "Author": "Peter Drucker",
+      "Quote": "Management is doing things right; leadership is doing the right things",
+      "URL": "https://en.wikipedia.org/wiki/Peter_Drucker"
     },
     {
-      "Quote": "Theres no point in living if living isn't fun",
-      "Author": "Dave Dawson"
+      "Author": "Dave Dawson",
+      "Quote": "There's no point in living if living isn't fun",
+      "URL": "https://en.wikipedia.org/wiki/Quality_of_life"
     },
     {
+      "Author": "David Brent",
       "Quote": "LIVE FAST DIE OLD",
-      "Author": "David Brents"
+      "URL": "https://en.wikipedia.org/wiki/David_Brent"
     },
     {
+      "Author": "Unknown",
       "Quote": "One life - one chance",
-      "Author": "Unknown"
+      "URL": "https://en.wikipedia.org/wiki/Life"
     },
     {
-      "Quote": "You can either get better or get bitter",
       "Author": "Tejas",
-      "twitter": "@TejasKumar_"
+      "Quote": "You can either get better or get bitter",
+      "URL": "https://www.x.com/@TejasKumar_"
     },
     {
-      "Quote": "If you sum up the things I try to impart to our daughters, it has been: ‘be kind and be useful,'",
-      "Author": "Barrack Obama"
+      "Quote": "If you sum up the things I try to impart to our daughters, it has been: 'be kind and be useful,'",
+      "Author": "Barack Obama",
+      "URL": "https://en.wikipedia.org/wiki/Barack_Obama"
     },
     {
-      "Quote": "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.",
-      "Author": "Jim Barksdale"
+      "Author": "Jim Barksdale",
+      "Quote": "If we have data, let's look at data. If all we have are opinions, let's go with mine",
+      "URL": "https://en.wikipedia.org/wiki/jim_barksdale"
     },
     {
-      "Quote": "To improve is to change; to be perfect is to change often.",
-      "Author": "Winston Churchill"
+      "Author": "Winston Churchill",
+      "Quote": "To improve is to change; to be perfect is to change often",
+      "URL": "https://en.wikipedia.org/wiki/Winston_Churchill"
     },
     {
-      "Quote": "Comaprison is the theif of joy",
-      "Author": "Sue Wood"
+      "Author": "Theodore Roosevelt",
+      "Quote": "Comparison is the thief of joy",
+      "URL": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
     },
     {
-    "Quote": "I decided I can't pay a person to rewind time, so I may as well get over it.",
-    "Author": "Serena Williams"
+      "Author": "Serena Williams",
+      "Quote": "I decided I can't pay a person to rewind time, so I may as well get over it",
+      "URL": "https://www.brainyquote.com/authors/serena-williams"
     },
     {
+      "Author": "Yoko Ono",
       "Quote": "You change the world by being yourself",
-      "Author": "yoko Ono"
+      "URL": "https://en.wikipedia.org/wiki/Yoko_Ono"
     },
     {
-    "Quote": "The grass grows where you water it",
-      "Author": "Wolfgang puck"
+      "Author": "Wolfgang Puck",
+      "Quote": "The grass grows where you water it",
+      "URL": "https://en.wikipedia.org/wiki/Wolfgang_Puck"
     },
     {
-    "Quote": "Only the best is good enough",
-    "Author": "Howard Kendall"
+      "Author": "Howard Kendall",
+      "Quote": "Only the best is good enough",
+      "URL": "https://en.wikipedia.org/wiki/Howard_Kendall"
     },
     {
-      "Quote" : "Management is doing things right; leadership is doing the right things.",
-      "Author": "Peter Drucker"
+      "Author": "Peter Drucker",
+      "Quote": "Management is doing things right; leadership is doing the right things",
+      "URL": "https://en.wikipedia.org/wiki/Peter_Drucker"
     },
     {
-      "Quote": "To be a pioneer is to stand on a shore and look out to a land no one can see, know there are dangers we cannot imagine...and set forth anyway.",
-      "Author":""
+      "Author": "Unknown",
+      "Quote": "To be a pioneer is to stand on a shore and look out to a land no one can see, know there are dangers we cannot imagine...and set forth anyway",
+      "URL": "https://en.wikipedia.org/wiki/Pioneer"
     }
   ]
 }
