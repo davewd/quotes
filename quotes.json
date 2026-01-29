@@ -288,6 +288,18 @@
     {
       "Quote": "A smooth sea never made a skilled sailor",
       "Author": "Swahili proverb"
+    },
+    {
+      "Quote": "As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow",
+      "Author": "Doug McIlroy"
+    },
+    {
+      "Quote": "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it",
+      "Author": "Zhuowei Zhang"
+    },
+    {
+      "Quote": "Automated testing is a safety net that protects the program from its programmers",
+      "Author": "Yegor Bugayenko"
     }
   ]
 }
